@@ -41,7 +41,7 @@ export default function Footer() {
       <Image
         aria-hidden
         src="https://nextjs.org/icons/github.svg"
-        alt="Globe icon"
+        alt="Github icon"
         width={16}
         height={16}
       />
