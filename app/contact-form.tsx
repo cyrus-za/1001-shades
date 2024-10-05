@@ -48,8 +48,14 @@ export default function ContactForm() {
 
   return (
     <Form {...form}>
-      <form onSubmit={form.handleSubmit(onSubmit)} className="max-w-md mx-auto mt-8 p-6 bg-white rounded-lg shadow-md space-y-4">
+      <form onSubmit={form.handleSubmit(onSubmit)} className="max-w-md mx-auto p-6 bg-white rounded-lg shadow-md space-y-4">
         <h2 className="text-2xl font-bold mb-6 text-center">Sign Up</h2>
+        
+        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
+          <li>Get started by filling out the form</li>
+          <li>Submit and check your whatsapp</li>
+          <li>Follow the link and select your Zebra</li>
+        </ol>
 
         <FormField
           control={form.control}
