@@ -1,3 +1,8 @@
+# 1001 Shades of Grey
+
+This is a project for the Hackathon for [Investec Developer community](http://developer.investec.com) on 5 Oct at their Sandton offices in collaboration with Microsoft.
+________________
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
